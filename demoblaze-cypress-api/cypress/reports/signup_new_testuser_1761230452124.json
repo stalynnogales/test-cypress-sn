@@ -1,0 +1,46 @@
+{
+  "body": "",
+  "headers": {
+    "content-type": "application/json",
+    "x-cloud-trace-context": "f0bb066fa55416580212c0b19b17c8e7",
+    "date": "Thu, 23 Oct 2025 14:40:52 GMT",
+    "server": "Google Frontend",
+    "content-length": "3"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "isOkStatusCode": true,
+  "requestHeaders": {
+    "Connection": "keep-alive",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/15.5.0 Chrome/138.0.7204.251 Electron/37.6.0 Safari/537.36",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate",
+    "content-type": "application/json",
+    "content-length": 60
+  },
+  "requestBody": "{\"username\":\"testuser_1761230452124\",\"password\":\"Pass!2025\"}",
+  "duration": 356,
+  "allRequestResponses": [
+    {
+      "Request Body": "{\"username\":\"testuser_1761230452124\",\"password\":\"Pass!2025\"}",
+      "Request Headers": {
+        "Connection": "keep-alive",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/15.5.0 Chrome/138.0.7204.251 Electron/37.6.0 Safari/537.36",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate",
+        "content-type": "application/json",
+        "content-length": 60
+      },
+      "Request URL": "https://api.demoblaze.com/signup",
+      "Response Body": "",
+      "Response Headers": {
+        "content-type": "application/json",
+        "x-cloud-trace-context": "f0bb066fa55416580212c0b19b17c8e7",
+        "date": "Thu, 23 Oct 2025 14:40:52 GMT",
+        "server": "Google Frontend",
+        "content-length": "3"
+      },
+      "Response Status": 200
+    }
+  ]
+}
