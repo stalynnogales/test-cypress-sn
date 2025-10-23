@@ -1,4 +1,4 @@
-# Proyecto Demoblaze Cypress - API Tests
+# Proyecto Saucedemo Cypress - E2E Tests
 
 ## Requisitos
 - Node.js >=20
